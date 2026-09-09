@@ -10,6 +10,7 @@ This repository contains additional information from the article entitled "Compa
 
 ## How to cite this
 More information about the aim of our work can be found in our paper. If you use the content of this repository, make sure you cite this work as:
+
 **Latex:**
 ```latex
 @article{Avila_Jimenez_2026,
