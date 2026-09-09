@@ -10,7 +10,7 @@ This repository contains additional information from the article entitled "Compa
 
 ## How to cite this
 More information about the aim of our work can be found in our paper. If you use the content of this repository, make sure you cite this work as:
-Latex:
+**Latex:**
 ```latex
 @article{Avila_Jimenez_2026,
 	title={Comparative of machine learning methods for detecting cardiovascular disease},
@@ -27,6 +27,6 @@ Latex:
 	pages={555–565}
 }
 ```
-IEEE format: J. L. Ávila-Jiménez, F. J. Rodriguez-Lozano, V. Cantón-Habas, and M. Ortiz-Lopez, “Comparative of machine learning methods for detecting cardiovascular disease,” Health and Technology, vol. 16, no. 3, pp. 555–565, Apr. 2026, doi: 10.1007/s12553-026-01067-w.
+**IEEE format:** J. L. Ávila-Jiménez, F. J. Rodriguez-Lozano, V. Cantón-Habas, and M. Ortiz-Lopez, “Comparative of machine learning methods for detecting cardiovascular disease,” Health and Technology, vol. 16, no. 3, pp. 555–565, Apr. 2026, doi: 10.1007/s12553-026-01067-w.
 
-APA format: Ávila-Jiménez, J. L., Rodriguez-Lozano, F. J., Cantón-Habas, V., & Ortiz-Lopez, M. (2026). Comparative of machine learning methods for detecting cardiovascular disease. Health and Technology, 16(3), 555–565. https://doi.org/10.1007/s12553-026-01067-w
+**APA format:** Ávila-Jiménez, J. L., Rodriguez-Lozano, F. J., Cantón-Habas, V., & Ortiz-Lopez, M. (2026). Comparative of machine learning methods for detecting cardiovascular disease. Health and Technology, 16(3), 555–565. https://doi.org/10.1007/s12553-026-01067-w
